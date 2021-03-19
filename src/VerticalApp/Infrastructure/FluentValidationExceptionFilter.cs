@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Filters;
 
-namespace VerticalApp
+namespace VerticalApp.Infrastructure
 {
     public class FluentValidationExceptionFilter : IExceptionFilter
     {
