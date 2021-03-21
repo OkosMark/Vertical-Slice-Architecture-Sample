@@ -1,1 +1,0 @@
-Our Vertical Slices our UseCases
